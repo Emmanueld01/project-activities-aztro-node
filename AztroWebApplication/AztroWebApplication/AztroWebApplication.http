@@ -1,0 +1,6 @@
+@AztroWebApplication_HostAddress = http://localhost:5207
+
+GET {{AztroWebApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
